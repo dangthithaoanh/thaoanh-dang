@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome To My Space 
 
+My name is Dang Thi Thao Anh. I am studying a research master degree in Linguistics and Communication Sciences at Radboud University in the Netherlands. On this website, you can find my research interest as well as my writing on my knowledge, ideas, and experience.
 You can use the [editor on GitHub](https://github.com/dangthithaoanh/thaoanh-dang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
